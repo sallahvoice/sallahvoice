@@ -5,14 +5,15 @@ Backend developer focused on **finance**, **mathematics**, and **data-driven sys
 
 ## 🧠 Core Skills
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" width="60"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" width="60"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/redis.svg" width="60"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 
 ---
