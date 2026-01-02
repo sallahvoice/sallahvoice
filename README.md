@@ -11,9 +11,7 @@ Backend developer building **financial and data-intensive systems** with a stron
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sallahvoice&show_icons=true&hide_title=true&hide=issues&count_private=true"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sallahvoice&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=transparent&hide_border=true)
 
 ---
 
