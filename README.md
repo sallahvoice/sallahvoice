@@ -1,4 +1,3 @@
-# 👋 Hi, I'm a Python Developer
 
 Backend developer focused on **finance**, **mathematics**, and **data-driven systems**.
 
@@ -6,14 +5,15 @@ Backend developer focused on **finance**, **mathematics**, and **data-driven sys
 
 ## 🧠 Core Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" width="60"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" width="60"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/redis.svg" width="60"/>
+
 
 ---
 
@@ -42,14 +42,6 @@ Backend developer focused on **finance**, **mathematics**, and **data-driven sys
 - 🔄 Data pipelines  
 - 📉 Analytics & trading tools  
 - 🧱 Clean, scalable backend services  
-
----
-
-## 📈 Philosophy
-
-> Simple code  
-> Correct math  
-> Predictable systems
 
 ---
 
