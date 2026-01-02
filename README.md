@@ -12,7 +12,7 @@ Backend developer building **financial and data-intensive systems** with a stron
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide=issues&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sallahvoice&show_icons=true&hide_title=true&hide=issues&count_private=true"/>
 </p>
 
 ---
