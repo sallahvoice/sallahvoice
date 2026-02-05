@@ -1,6 +1,6 @@
-# Backend Developer
+# Quantitive Analysis(finance)
 
-Backend developer building **financial and data-intensive systems** with a strong focus on **mathematics, performance, and clean architecture**.
+building **financial and data-intensive systems** with a strong focus on **mathematics, performance, and clean architecture**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
