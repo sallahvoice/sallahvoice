@@ -1,4 +1,4 @@
-# Quantitive finance
+# Quantitative finance
 
 building **financial and data-intensive systems** with a strong focus on **mathematics, performance, and clean architecture**.
 
