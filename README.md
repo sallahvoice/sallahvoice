@@ -18,11 +18,11 @@ building **financial and data-intensive systems** with a strong focus on **mathe
 
 ## 🧠 Tech Stack & Focus
 
-- ⚙️ **FastAPI** — high-performance REST APIs  
-- 🗄️ **MySQL** — relational data modeling  
-- 🚀 **Redis** — caching & low-latency access  
-- 🐳 **Docker** — reproducible, portable environments  
-- 📈 **Python** — financial analysis, modeling, automation  
+- ⚙️ **FastAPI**: high-performance REST APIs  
+- 🗄️ **MySQL**: relational data modeling  
+- 🚀 **Redis**: caching & low-latency access  
+- 🐳 **Docker**: reproducible, portable environments  
+- 📈 **Python**: financial analysis, modeling, automation  
 
 ---
 
